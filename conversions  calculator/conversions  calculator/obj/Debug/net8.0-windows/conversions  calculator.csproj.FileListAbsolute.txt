@@ -1,0 +1,16 @@
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\bin\Debug\net8.0-windows\conversions  calculator.exe
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\bin\Debug\net8.0-windows\conversions  calculator.deps.json
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\bin\Debug\net8.0-windows\conversions  calculator.runtimeconfig.json
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\bin\Debug\net8.0-windows\conversions  calculator.dll
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\bin\Debug\net8.0-windows\conversions  calculator.pdb
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions__calculator.Form1.resources
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.csproj.GenerateResource.cache
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.AssemblyInfoInputs.cache
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.AssemblyInfo.cs
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.dll
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\refint\conversions  calculator.dll
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.pdb
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\conversions  calculator.genruntimeconfig.cache
+C:\Users\Lab03\source\repos\conversions  calculator\conversions  calculator\obj\Debug\net8.0-windows\ref\conversions  calculator.dll
